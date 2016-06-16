@@ -1,0 +1,68 @@
+{
+  "name": "react-native-modal",
+  "version": "0.4.0",
+  "description": "A <Modal /> component for react-native",
+  "main": "Modal.ios.js",
+  "author": {
+    "name": "Brent Vatne",
+    "email": "brentvatne@gmail.com",
+    "url": "https://github.com/brentvatne"
+  },
+  "contributors": [
+    {
+      "name": "Dmitri Voronianski",
+      "email": "dmitri.voronianski@gmail.com"
+    },
+    {
+      "name": "Marco Munizaga",
+      "email": "marco@marcopolo.io"
+    }
+  ],
+  "files": [
+    "RNModal.xcodeproj",
+    "Modal.ios.js",
+    "package.json",
+    "README.md",
+    "Style.js",
+    "Transitions.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/brentvatne/react-native-modal.git"
+  },
+  "dependencies": {
+    "react-tween-state": "^0.0.5",
+    "react-native-overlay": "^0.3.0",
+    "react-native-blur": ">=0.5.2"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.4.3"
+  },
+  "gitHead": "c0e69caa77e87228cbf2317db9f7e1e60f683040",
+  "bugs": {
+    "url": "https://github.com/brentvatne/react-native-modal/issues"
+  },
+  "homepage": "https://github.com/brentvatne/react-native-modal#readme",
+  "_id": "react-native-modal@0.4.0",
+  "scripts": {},
+  "_shasum": "3b964bfcaa1e63a80af19adcd90550c5fa7169e3",
+  "_from": "react-native-modal@*",
+  "_npmVersion": "3.3.12",
+  "_nodeVersion": "5.3.0",
+  "_npmUser": {
+    "name": "brentvatne",
+    "email": "brentvatne@gmail.com"
+  },
+  "dist": {
+    "shasum": "3b964bfcaa1e63a80af19adcd90550c5fa7169e3",
+    "tarball": "http://registry.npmjs.org/react-native-modal/-/react-native-modal-0.4.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "brentvatne",
+      "email": "brentvatne@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/react-native-modal/-/react-native-modal-0.4.0.tgz"
+}
